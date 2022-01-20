@@ -1,0 +1,11 @@
+{
+  "name": "Projeto-React.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nat-1501/Projeto-React.js.git",
+  "author": "nat-1501 <natalisoares90@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
