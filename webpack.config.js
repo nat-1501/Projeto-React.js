@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require ('html-webpack-plugin')
 
 module.exports = {
     mode: 'development',
+    devtool: 'aval-source-map',
     entry: path.resolve(__dirname, 'src', 'index.jsx'),
     output: {
         path: path.resolve(__dirname, 'dist'),
